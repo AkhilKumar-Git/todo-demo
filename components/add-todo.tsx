@@ -26,7 +26,7 @@ export function AddTodo({ onAdd }: AddTodoProps) {
         placeholder="Add a new todo..."
         className="flex-grow"
       />
-      <Button type="submit">Add Task</Button>
+      <Button type="submit">Add todo</Button>
     </form>
   )
 }
